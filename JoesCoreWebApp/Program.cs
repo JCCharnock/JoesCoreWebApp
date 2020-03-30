@@ -13,6 +13,7 @@ namespace JoesCoreWebApp
     {
         public static void Main(string[] args)
         {
+            //changed
             CreateHostBuilder(args).Build().Run();
         }
 
